@@ -63,4 +63,4 @@ Dig more deeply into the distribution of ratings for the shows.  What predicts a
 
 ## Keep in mind!
 
-Despite your best efforts, sometimes you cannot produce a good model!  But you **must** be able to explain why!  That's part of your job.
+Despite your best efforts, sometimes you cannot produce a good model!  But you **must** try to be able to explain why!  That's part of your job.
