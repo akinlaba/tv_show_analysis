@@ -49,7 +49,7 @@ Dig more deeply into the distribution of ratings for the shows.  What predicts a
 
 ## Requirements
 
-1. Scrape and prepare your own data.
+1. Scrape or pull your data from an API and prepare it for data modeling. 
 
 2. **Create and compare at least two models**. One of the two models should be a decision tree or ensemble model. The other can be a classifier or regression of your choosing (e.g. Ridge, logistic regression, KNN, SVM, etc).
 
