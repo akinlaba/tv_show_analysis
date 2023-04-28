@@ -1,5 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Web Scraping TV Shows
-
 ## Business Case Overview
 
 You are hired as a data science consultant by a TV production company.  They want to produce the next big hit, and want your help to figure out how to do that!
