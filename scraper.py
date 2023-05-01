@@ -120,6 +120,6 @@ counter = 0
 for entry in id_list:
     get_movie_info(entry)
     counter = counter + 1
-    print counter
+    print(counter)
 
 shows.to_pickle('shows.pkl')
